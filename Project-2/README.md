@@ -11,11 +11,11 @@
 Построены гистограммы, боксплоты, диаграммы рассеивания.
 
 ## Используемые библиотеки
-*pandas* 
-*seaborn* 
-*matplotlib* 
-*plotly*
-*numpy*
+- *pandas* 
+- *seaborn* 
+- *matplotlib* 
+- *plotly*
+- *numpy*
 
 ## Сферы деятельности 
 - Интернет-сервисы
@@ -23,4 +23,4 @@
 
 ## Ключевые слова
 обработка данных, histogram, boxplot, scattermatrix,
-категоризация, scatterplot,  фрод-мониторинг
+категоризация, scatterplot,  фрод-мониторинг, маркетинговый аналитик, фрод аналитик, fraud analyst, data analyst, аналитик данных, аналитик, analyst,
